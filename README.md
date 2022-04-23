@@ -27,7 +27,7 @@ Six classification algorithms are used:
 ## Screenshots
 
 <img width="573" alt="mlgraph" src="https://user-images.githubusercontent.com/36485235/164884639-75475d8e-0e2f-436f-8a25-27f2b1ad6e0d.png">
-<img width="746" alt="classifier" src="https://user-images.githubusercontent.com/36485235/164884627-f22d89ca-197d-485b-9c2b-37c01641302b.png">
+<img width="700" alt="classifier" src="https://user-images.githubusercontent.com/36485235/164884627-f22d89ca-197d-485b-9c2b-37c01641302b.png">
 <img width="700" alt="results" src="https://user-images.githubusercontent.com/36485235/164884636-edd5f9fa-8cc8-4ab0-9845-1aca23ffb865.png">
 
 
