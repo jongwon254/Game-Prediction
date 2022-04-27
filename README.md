@@ -1,6 +1,6 @@
 ![prediction](https://user-images.githubusercontent.com/36485235/164884611-c2542164-9458-43b8-a986-4a34e1e76c10.png)
 
-# Game-Prediction
+# Game Prediction
 Machine learning models to predict results of Premier League games.
 
 ## Technologies
